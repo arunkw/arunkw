@@ -30,9 +30,12 @@ Here are some ideas to get you started:
 
 📂 Cloud Storage
 
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google%20Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 💾 Databases
 
@@ -42,6 +45,7 @@ Here are some ideas to get you started:
 
 🎨 Design
 
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -102,6 +106,10 @@ Here are some ideas to get you started:
 
 📋 Languages
 
+![Baan4c4](https://img.shields.io/badge/Baan4c4-003B6F?style=for-the-badge&logo=none)
+![AutoIt](https://img.shields.io/badge/AutoIt-1C3552?style=for-the-badge&logo=autoit&logoColor=white)
+![ASP](https://img.shields.io/badge/ASP-000000?style=for-the-badge&logo=asp.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -128,6 +136,8 @@ Here are some ideas to get you started:
 
 🥅 Other
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SmartPLS](https://img.shields.io/badge/SmartPLS-blue?style=for-the-badge&logo=none)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -141,6 +151,8 @@ Here are some ideas to get you started:
 
 💬 Social
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
@@ -165,6 +177,12 @@ Here are some ideas to get you started:
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
+📁 File Sharing & Download
+
+![BitTorrent](https://img.shields.io/badge/Bittorrent-4B0082?style=for-the-badge&logo=bittorrent&logoColor=white)
+![FreeCommander](https://img.shields.io/badge/FreeCommander-003B6F?style=for-the-badge&logo=windows&logoColor=white)
+
+
 🕓 Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -175,3 +193,21 @@ Here are some ideas to get you started:
 ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
+💼 CRM & Productivity Tools
+
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-E73103?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho Books](https://img.shields.io/badge/Zoho%20Books-1D72B8?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho Campaign](https://img.shields.io/badge/Zoho%20Campaigns-5E2E91?style=for-the-badge&logo=zoho&logoColor=white)
+![Toodledo](https://img.shields.io/badge/Toodledo-2A9D8F?style=for-the-badge&logo=none)
+
+🧾 ERP & Finance
+
+![ERPNext](https://img.shields.io/badge/ERPNext-3A7AFE?style=for-the-badge&logo=erpnext&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+![Instamojo](https://img.shields.io/badge/Instamojo-0091EA?style=for-the-badge&logo=none)
+
+🧩 Extensions & Apps
+
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Android App](https://img.shields.io/badge/Android%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)
