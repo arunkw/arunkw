@@ -211,3 +211,12 @@ Here are some ideas to get you started:
 
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Android App](https://img.shields.io/badge/Android%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+Stackoverflow Component
+
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1746327)](https://github.com/harish-sethuraman/readme-components)
+
+
+GitHub Stats Card
+
+[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunkw)](https://github.com/arunkw/github-readme-stats)
